@@ -1,4 +1,4 @@
 export default function whatever(yes) {
-  if (yes > 5) return true;
+  if (yes > 5) return false;
   return false;
 }
